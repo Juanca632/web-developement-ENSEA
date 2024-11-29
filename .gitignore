@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# React
+build/
+dist/
+
+# Editor de código
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDEs
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+
+# Otros editores
+*.sublime-workspace
+*.sublime-project
+
+# Cachés y logs
+.cache/
+*.log
+
+# Otros
+jspm_packages/
+.tern-port
+coverage/
+
+# Docker
+.docker/
+
+# Archivos de configuración
+*.env
+.env.local
+.env.*.local
